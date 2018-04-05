@@ -8,5 +8,6 @@ namespace Some.Nuget.Test
 {
     public class TheMainClass
     {
+        //
     }
 }
