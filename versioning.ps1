@@ -2,11 +2,13 @@
 # Depending on the branch, we will use different major/minor versions
 $version = Get-Content "version.txt"
 
+Write-Host "Version is $version"
+
 # TeamCity's auto-incrementing build counter; ensures each build is unique
-$buildCounter = "%build.counter%" 
+$buildCounter = "$env:build_counter" 
 
 # This gets the name of the current Git branch. 
-$branch = "%teamcity.build.branch%"
+$branch = "$env:build_branch"
 
 # Sometimes the branch will be a full path, e.g., 'refs/heads/master'. 
 # If so we'll base our logic just on the last part.
