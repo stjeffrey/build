@@ -8,5 +8,6 @@ namespace Some.Assembly
 {
     public class Class1
     {
+        //comments
     }
 }
