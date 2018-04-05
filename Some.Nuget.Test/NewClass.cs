@@ -6,6 +6,9 @@ namespace Some.Nuget.Test
 {
     public class NewClass
     {
-        
+        public void Method()
+        {
+
+        }
     }
 }
