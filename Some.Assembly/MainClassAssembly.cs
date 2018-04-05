@@ -9,5 +9,9 @@ namespace Some.Assembly
     public class MainClassAssembly
     {
         //comments
+        public void Method()
+        {
+
+        }
     }
 }
