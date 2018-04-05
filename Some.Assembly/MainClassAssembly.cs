@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Some.Assembly
 {
-    public class Class1
+    public class MainClassAssembly
     {
         //comments
     }
