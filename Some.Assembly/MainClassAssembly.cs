@@ -13,6 +13,7 @@ namespace Some.Assembly
         {
             var abc = "abc";
             var a = "aaaa";
+            var b = "bbbb";
         }
     }
 }
