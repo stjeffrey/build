@@ -16,8 +16,6 @@ namespace Some.Assembly
             var abc = "abc";
             var a = "aaaa";
             var b = "bbbb";
-
-            code to fail here
             var c = "cccc";
             var d = "cccc";
             //bug-5
