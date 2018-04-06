@@ -16,6 +16,7 @@ namespace Some.Assembly
             var b = "bbbb";
             var c = "cccc";
             var d = "cccc";
+            // BUG 4 fix!  with update
         }
     }
 }
