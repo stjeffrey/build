@@ -13,7 +13,7 @@ namespace Some.Assembly
         //comments
         public void Method()
         {
-            var abc = "abc";
+            var abc = "abc111";
             var a = "aaaa";
             var b = "bbbb";
             var c = "cccc";
