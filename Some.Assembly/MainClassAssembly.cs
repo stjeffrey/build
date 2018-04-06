@@ -11,7 +11,7 @@ namespace Some.Assembly
         //comments
         public void Method()
         {
-
+            var a = "aaaa";
         }
     }
 }
